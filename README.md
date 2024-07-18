@@ -16,7 +16,7 @@ Bu depo, her bir kategorideki programlar için ayrıntılı bilgiler sunan çeş
 - **Sayısal Program Verileri:**
 - **Eşit Ağırlık Program Verileri:**  
 - **Sözel Program Verileri:**
-- **Dil Puan Türü Verileri:**
+- **Dil Program Verileri:**
   
 
 ## Veri Setlerinin İçeriği
