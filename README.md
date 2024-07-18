@@ -70,6 +70,7 @@ Bu veri setlerini kullanarak, üniversite programlarının çeşitli metriklerin
 
 ## YKS Tercih GPT?
 Vermiş olduğumuz linkten YKS Tercih GPT'si aracılığıyla da kullanabilirsiniz. Bu GPT'nin amacı, Türkiye'deki üniversiteler ve bölümler hakkında ayrıntılı bilgi sağlamaktır. Özellikle, belirli bir üniversite ve bölüm için taban puanlar, başarı sıralamaları, kontenjanlar, yerleşen öğrenci sayıları ve burs olanakları gibi bilgileri sunmak için tasarlanmıştır. Bu tür bilgiler, üniversite tercihi yapacak öğrenciler için oldukça önemlidir.
+https://chatgpt.com/g/g-ZakGOaTOW-yks-tercih
 
 ## İletişim
 Herhangi bir sorunuz veya geri bildiriminiz için lütfen bizimle iletişime geçin.
